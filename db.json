@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "topic_name": "NHS",
+    "time_series": [
+      { "created_day": "2020-08-01", "topic_frequency": 9 },
+      { "created_day": "2020-08-02", "topic_frequency": 6 },
+      { "created_day": "2020-08-03", "topic_frequency": 7 },
+      { "created_day": "2020-08-04", "topic_frequency": 5 },
+      { "created_day": "2020-08-06", "topic_frequency": 4 },
+      { "created_day": "2020-08-07", "topic_frequency": 4 },
+      { "created_day": "2020-08-08", "topic_frequency": 4 },
+      { "created_day": "2020-08-09", "topic_frequency": 4 },
+      { "created_day": "2020-08-10", "topic_frequency": 7 },
+      { "created_day": "2020-08-12", "topic_frequency": 12 },
+      { "created_day": "2020-08-13", "topic_frequency": 7 },
+      { "created_day": "2020-08-14", "topic_frequency": 12 },
+      { "created_day": "2020-08-15", "topic_frequency": 7 },
+      { "created_day": "2020-08-16", "topic_frequency": 12 },
+      { "created_day": "2020-08-20", "topic_frequency": 14 },
+      { "created_day": "2020-08-21", "topic_frequency": 15 },
+      { "created_day": "2020-08-22", "topic_frequency": 18 },
+      { "created_day": "2020-08-23", "topic_frequency": 25 }
+    ]
+  },
+  {
+    "id": 2,
+    "topic_name": "Climate Change",
+    "time_series": [
+      { "created_day": "2020-08-01", "topic_frequency": 4 },
+      { "created_day": "2020-08-02", "topic_frequency": 5 },
+      { "created_day": "2020-08-06", "topic_frequency": 3 },
+      { "created_day": "2020-08-10", "topic_frequency": 4 },
+      { "created_day": "2020-08-12", "topic_frequency": 7 },
+      { "created_day": "2020-08-20", "topic_frequency": 8 },
+      { "created_day": "2020-08-21", "topic_frequency": 9 },
+      { "created_day": "2020-08-22", "topic_frequency": 9 },
+      { "created_day": "2020-08-23", "topic_frequency": 9 },
+      { "created_day": "2020-08-24", "topic_frequency": 9 },
+      { "created_day": "2020-08-28", "topic_frequency": 11 },
+      { "created_day": "2020-08-29", "topic_frequency": 10 }
+    ]
+  },
+  {
+    "id": 3,
+    "topic_name": "Homelessness",
+    "time_series": [
+      { "created_day": "2020-08-01", "topic_frequency": 30 },
+      { "created_day": "2020-08-02", "topic_frequency": 29 },
+      { "created_day": "2020-08-03", "topic_frequency": 32 },
+      { "created_day": "2020-08-04", "topic_frequency": 29 },
+      { "created_day": "2020-08-06", "topic_frequency": 28 },
+      { "created_day": "2020-08-07", "topic_frequency": 26 },
+      { "created_day": "2020-08-10", "topic_frequency": 23 },
+      { "created_day": "2020-08-12", "topic_frequency": 19 },
+      { "created_day": "2020-08-20", "topic_frequency": 12 },
+      { "created_day": "2020-08-21", "topic_frequency": 2 },
+      { "created_day": "2020-08-24", "topic_frequency": 1 },
+      { "created_day": "2020-08-27", "topic_frequency": 1 }
+    ]
+  }
+]
